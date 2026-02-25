@@ -16,7 +16,7 @@
 ## 🧠 About Me
 
 ```python
-yo = {
+Hey = {
     "location":    "Bremen, Germany 🇩🇪",
     "education":   "M.Sc. Trustworthy Systems @ Hochschule Bremerhaven",
     "scholarship": "Deutschlandstipendium – Top 1%",
