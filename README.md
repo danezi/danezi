@@ -5,7 +5,11 @@
 
 </div>
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=600&height=60&lines=M.Sc.+Trustworthy+Systems+%40+Hochschule+Bremerhaven;AI+Engineer+·+Data+Scientist+·+Backend+Developer)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
