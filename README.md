@@ -21,7 +21,7 @@ Hey = {
     "education":   "M.Sc. Trustworthy Systems @ Hochschule Bremerhaven",
     "scholarship": "Deutschlandstipendium – Top 1%",
     "exchange":    "Université Technologique de Troyes, France 🇫🇷",
-    "interests":   ["Deepfake Detection", "Medical AI", "Workflow Automation", "Backend Systems"],
+    "interests":   ["Deepfake Detection", "Medical AI", "Workflow Automation", "Backend Systems", Cloud Computing, AI],
     "looking_for": "AI Engineer · Data Science · Java/Python Developer roles in Bremen",
 }
 ```
