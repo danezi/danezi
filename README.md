@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Yo%20·%20danezi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Trustworthy%20AI%20·%20Backend%20Dev%20·%20Workflow%20Automation&descAlignY=58&descColor=a78bfa"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20danezi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Trustworthy%20AI%20·%20Backend%20Dev%20·%20Workflow%20Automation&descAlignY=58&descColor=a78bfa"/>
 
 </div>
 
@@ -16,12 +15,12 @@
 ## 🧠 About Me
 
 ```python
-Hey = {
+yo = {
     "location":    "Bremen, Germany 🇩🇪",
     "education":   "M.Sc. Trustworthy Systems @ Hochschule Bremerhaven",
     "scholarship": "Deutschlandstipendium – Top 1%",
     "exchange":    "Université Technologique de Troyes, France 🇫🇷",
-    "interests":   ["Deepfake Detection", "Medical AI", "Workflow Automation", "Backend Systems", Cloud Computing, AI],
+    "interests":   ["Deepfake Detection", "Medical AI", "Workflow Automation", "Backend Systems"],
     "looking_for": "AI Engineer · Data Science · Java/Python Developer roles in Bremen",
 }
 ```
@@ -68,7 +67,7 @@ Hey = {
 
 - 3-model ensemble achieving **97% accuracy**
 - Combines EfficientNet-B4, ViT, and XceptionNet
-- Academic research — Bachelor's thesis level
+- Academic research — Master's level
 - `Python` `PyTorch` `OpenCV` `Scikit-learn`
 
 </td>
@@ -116,8 +115,9 @@ Hey = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=danezi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danezi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa"/>
+![danezi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danezi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danezi&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
